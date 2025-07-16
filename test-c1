@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    printf("Hallow warld\n");
+    printf("比特\n");
+    printf("%d\n",sizeof(char));
+    return 0;
+}
